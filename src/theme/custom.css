@@ -1,0 +1,56 @@
+.img {
+  margin-top: 50%;
+  padding-left: 80px;
+  padding-right: 60px;
+}
+
+.para {
+  padding-left: 50px;
+}
+
+.img1 {
+  margin-top: 0%;
+  padding-left: 250px;
+  padding-right: 60px;
+  margin-bottom: 0%;
+}
+
+.but {
+}
+
+.para1 {
+  margin-top: 2%;
+  padding-left: 15px;
+  padding-right: 80px;
+  margin-bottom: 5%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para2 {
+  margin-top: 0%;
+  padding-left: 15px;
+  margin-bottom: 5%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.items-page ion-badge {
+  font-size: 0.58rem !important;
+  padding: 6px 6px 5px 6px !important;
+  margin-top: 3px;
+  border-radius: 15px !important;
+}
+
+.items-page ion-col {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.items-page ion-col p {
+  font-size: 0.8rem !important;
+}
+.err {
+  color: red;
+  font-size: 13px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}

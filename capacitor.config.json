@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appIcon": "assets/Primed_logo.png",
+  "appName": "Primed",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

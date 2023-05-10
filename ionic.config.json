@@ -1,0 +1,7 @@
+{
+  "name": "Primed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
